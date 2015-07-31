@@ -1,1 +1,3 @@
-somehow i want to figure out how these hex numbers work - they could be unicode in plain text
+In folder "excels":
+- open folder "xl" and open sharedStrings.xml to see the data.
+- I have a hunch that "styles.xml" has the styles for it.
